@@ -1,0 +1,4 @@
+streamsum
+=========
+
+Shasum for stream.
