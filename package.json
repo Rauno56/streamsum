@@ -7,6 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rauno56/streamsum"
+  },
+  "keywords": [
+    "stream",
+    "shasum1",
+    "shasum",
+    "cli"
+  ],
   "author": "Rauno Viskus",
   "license": "MIT"
 }
